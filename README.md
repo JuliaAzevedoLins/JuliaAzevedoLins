@@ -2,10 +2,11 @@
 
 ###
 
-<p align="left">Estudante de Engenharia de Software na FIAP e Estagiária de Bussiness Intelligence no C6 Bank</p>
-</div> 
-<div> 
-<p align="left">• 💼 Bussiness Intelligence<br>• 📊 Power BI & Analytics<br>• 🎨 UX & UI<br>• ✏Design</p>
+<p align="left">Estudante de Engenharia de Software na FIAP e Estagiária de Bussiness Intelligence no C6 BanK</p>
+
+###
+
+<p align="left">• 💼 Bussiness Intelligence<br>• 📊 Power BI & Analytics<br>• 🎨 UX & UI<br>• ✏Design<br>• 🏆 1° Lugar - NEXT FIAP 2023 (Sustainable Cities Cup - IBM)</p>
 
 ###
 
