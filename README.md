@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 💼 Bussiness Intelligence<br>• 📊 Power BI & Analytics<br>• 🎨 UX & UI<br>• ✏Design<br>• 🏆 1° Lugar - NEXT FIAP 2023 (Sustainable Cities Cup - IBM)</p>
+<p align="left">• 💼 Bussiness Intelligence<br>• 📊 Power BI & Analytics<br>• 🎨 UX & UI<br>• ✏ Design<br>• 🏆 1° Lugar - NEXT FIAP 2023 (Sustainable Cities Cup - IBM)</p>
 
 ###
 
