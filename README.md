@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Engenharia de Software na FIAP e Estagiária de Business Intelligence no C6 Bank</p>
+<p align="left">Estudante de Engenharia de Software na FIAP e Analista Júnior de Business Intelligence no C6 Bank</p>
 
 ###
 
